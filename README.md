@@ -1,4 +1,4 @@
-# **Smoking Status Classification with CNN-LSTM and LIME**
+# **Explainable AI for Smoking Behaviour Detection: A Danish Medical Records Study**
 
 This project implements a modular and reproducible pipeline for smoking status and pack-year classification from clinical notes using a CNN-LSTM architecture with LIME-based interpretability.
 
